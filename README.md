@@ -30,6 +30,11 @@ It allows users to communicate through text, images and files through text, imag
 - **Admin Monitoring**: Admin can view active users.
 - 
 - ## layout images
-<img src="images/logo.png">
+<img src="images/logo.png"/>
+ 
+<img src="images/signup.png"/>
+<img src="images/chat.png"/>
+<img src="images/admin1.png"/>
+<img src="images/admin2.png"/>
 
 
