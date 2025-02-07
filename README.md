@@ -28,5 +28,8 @@ It allows users to communicate through text, images and files through text, imag
 - **Admin Login**: Admin logs in to monitor activities.
 
 - **Admin Monitoring**: Admin can view active users.
+- 
+- ## layout images
+<img src="images/logo.png">
 
 
